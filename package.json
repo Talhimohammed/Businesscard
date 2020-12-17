@@ -1,6 +1,6 @@
 {
   "name": "talhi",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "@TALHI's business card",
   "main": "./bin/card.js",
   "bin": {
