@@ -14,9 +14,9 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('TALHI Mohammed'),
+  name: chalk.white('Talhi mohammed /'),
   handle: chalk.cyan('Talhimohammed'),
-  work: chalk.white('Software Engineer - Fullstack web developer'),
+  work: chalk.white('Software Engineer'),
   twitter: chalk.cyan('https://twitter.com/talhimohammed1'),
   github: chalk.cyan('github.com/Talhimohammed'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/mohammed-talhi'),

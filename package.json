@@ -1,10 +1,10 @@
 {
-  "name": "talhi",
-  "version": "1.2.0",
-  "description": "@talhi's business card",
+  "name": "mtalhi",
+  "version": "1.1.0",
+  "description": "Mohammed talhi (@mtalhi)'s business card",
   "main": "./bin/card.js",
   "bin": {
-    "talhi": "./bin/card.js"
+    "natterstefan": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "talhi",
+  "author": "Talhi mohammed",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
