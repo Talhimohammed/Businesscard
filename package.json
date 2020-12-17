@@ -1,10 +1,10 @@
 {
   "name": "talhi",
   "version": "1.2.0",
-  "description": "@TALHI's business card",
+  "description": "@talhi's business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "talhi": "./bin/card.js"
   },
   "repository": {
     "type": "git",
